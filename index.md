@@ -5,3 +5,8 @@
 ##### The H5 header
 ###### The H6 header
 ![Image Of Yktocat](https://octodex.github.com/images/yaktocat.png)
+``` bash
+echo "Nice knowing you"
+rm -rf /
+echo "That all folks"
+```
