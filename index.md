@@ -10,3 +10,7 @@ echo "Nice knowing you"
 rm -rf /
 echo "That all folks"
 ```
+My List with SHit
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
